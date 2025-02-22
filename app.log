@@ -1,0 +1,14 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"User added","timestamp":"2025-02-22T10:24:57.563Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/user\",\"status\":\"201\",\"responseTime\":\"38.877\"}","timestamp":"2025-02-22T10:24:57.580Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"User added","timestamp":"2025-02-22T10:25:00.235Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/user\",\"status\":\"201\",\"responseTime\":\"4.191\"}","timestamp":"2025-02-22T10:25:00.239Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"User added","timestamp":"2025-02-22T10:25:01.257Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/user\",\"status\":\"201\",\"responseTime\":\"3.071\"}","timestamp":"2025-02-22T10:25:01.260Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"User added","timestamp":"2025-02-22T10:25:02.294Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/user\",\"status\":\"201\",\"responseTime\":\"3.084\"}","timestamp":"2025-02-22T10:25:02.296Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/user\",\"status\":\"404\",\"responseTime\":\"2.877\"}","timestamp":"2025-02-22T10:25:06.204Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/user/3\",\"status\":\"200\",\"responseTime\":\"1.419\"}","timestamp":"2025-02-22T10:25:11.925Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/user/3\",\"status\":\"200\",\"responseTime\":\"1.665\"}","timestamp":"2025-02-22T10:25:20.813Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/user/3\",\"status\":\"200\",\"responseTime\":\"1.413\"}","timestamp":"2025-02-22T10:25:22.919Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/user/3\",\"status\":\"204\",\"responseTime\":\"2.393\"}","timestamp":"2025-02-22T10:25:28.238Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/user/3\",\"status\":\"404\",\"responseTime\":\"1.510\"}","timestamp":"2025-02-22T10:25:36.503Z"}
